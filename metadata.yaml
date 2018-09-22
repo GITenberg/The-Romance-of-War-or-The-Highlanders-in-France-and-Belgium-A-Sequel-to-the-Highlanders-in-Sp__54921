@@ -1,0 +1,28 @@
+_repo: The-Romance-of-War-or-The-Highlanders-in-France-and-Belgium-A-Sequel-to-the-Highlanders-in-Sp__54921
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grant, James
+    birthdate: 1822
+    deathdate: 1887
+    gutenberg_agent_id: '8949'
+    url: http://www.gutenberg.org/2009/agents/8949
+description: ''
+gutenberg_issued: '2017-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54921'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Waterloo, Battle of, Waterloo, Belgium, 1815 -- Fiction'
+- !lcsh 'Great Britain. Army. Gordon Highlanders -- Fiction'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Campaigns -- Belgium -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Campaigns -- France -- Fiction'
+- GITenberg
+title: The Romance of War; or, The Highlanders in France and Belgium, A Sequel to
+  the Highlanders in Spain
+url: http://www.gutenberg.org/ebooks/54921
